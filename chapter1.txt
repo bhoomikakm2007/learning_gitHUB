@@ -1,1 +1,17 @@
 this is the chapter 1 of learning gitHUB 
+
+          safari--
+          new repository
+          create repository
+          copy (URL)
+
+          VScode--
+          mkdir (rep)
+          cd (rep)
+          git init
+          code _____.txt
+          git add _____.txt
+          git commit -m "_______"
+          git branch -M main
+          git remote add origin (URL)
+          git push -u origin main
