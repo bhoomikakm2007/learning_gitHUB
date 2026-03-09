@@ -1,1 +1,10 @@
 this is the chapter2 of learning gitHUB
+
+            VScode----
+            cd (rep)
+            git init
+            code _______.txt
+            git add _______.txt
+            git commit -m "______"
+            git branch -M main
+            git push origin main
