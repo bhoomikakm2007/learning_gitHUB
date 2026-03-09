@@ -1,2 +1,2 @@
-"this is the chapter3 if learning gitHUB
-in this we also learn how we can update the files"
+"this is the chapter3 if learning gitHUB.
+-----in this we also learn how we can update the files"
