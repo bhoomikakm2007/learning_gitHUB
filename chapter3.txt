@@ -1,2 +1,7 @@
 "this is the chapter3 if learning gitHUB.
------in this we also learn how we can update the files"
+
+              VScode-----
+              code ______.txt
+              git add _______.txt
+              git commit -m "_________"
+              git push origin main
